@@ -1,4 +1,4 @@
-## Laboratorio 8 
+# Laboratorio 8 - Interacción Persona Computador
 ## Nombre: Eduardo Loza
 ## Figma: https://www.figma.com/design/zrMsqYWeRrkjZ4rzL7GP66/Lab1-IPC?node-id=0-1&t=IFlO5zjYyaq09g0U-1
 ## Url: https://n1c0145.github.io/Portafolio-IPC2/
