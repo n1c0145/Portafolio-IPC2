@@ -1,9 +1,8 @@
-# Portafolio-IPC2
-# Laboratorio 8 
-# Nombre: Eduardo Loza
-# Figma: https://www.figma.com/design/zrMsqYWeRrkjZ4rzL7GP66/Lab1-IPC?node-id=0-1&t=IFlO5zjYyaq09g0U-1
-# Url: https://n1c0145.github.io/Portafolio-IPC2/
-## Cambios realizados para cumplir con WCAG AAA
+## Laboratorio 8 
+## Nombre: Eduardo Loza
+## Figma: https://www.figma.com/design/zrMsqYWeRrkjZ4rzL7GP66/Lab1-IPC?node-id=0-1&t=IFlO5zjYyaq09g0U-1
+## Url: https://n1c0145.github.io/Portafolio-IPC2/
+## Cumplimiento de Requisitos del Laboratorio:
 
 ### 1. Uso correcto de etiquetas semánticas de HTML5
 El código utiliza etiquetas semánticas apropiadas como `<nav>` para la navegación principal, `<main>` para el contenido principal y `<footer>` para la información de contacto. 
