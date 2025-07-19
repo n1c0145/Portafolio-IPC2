@@ -1,3 +1,38 @@
+# Laboratorio 10. Eye-tracking con Webgazer
+## Nombre: Eduardo Loza
+## Url: https://n1c0145.github.io/Portafolio-IPC2/
+## ¿Qué hace el proyecto?
+
+El proyecto correspondiente al Laboratorio 10 utiliza la librería **WebGazer.js** para realizar seguimiento del movimiento de los ojos en tiempo real. Captura los puntos donde el usuario está mirando y al detener la detección, genera un **mapa de calor** visual con **Heatmap.js** que muestra las zonas más observadas en la pantalla.
+
+## ¿Cómo ejecutarlo?
+
+Se debe abrir la página en un navegador moderno y aceptar el permiso para usar la cámara cuando el navegador lo solicite. 
+
+Se sugierer para obtener mejores resultados:
+
+- Tener una cámara con buena calidad.
+- Tener buena iluminación frente a la cámara.
+- Colocar la cámara de forma que el rostro quede visible y centrado.
+
+La detección de mirada comenzará automáticamente. 
+
+- El botón **"Detener detección"** pausa la detección de mirada y muestra el mapa de calor con los puntos acumulados.  
+- El botón **"Reanudar detección"** reanuda la detección y empieza una nueva captura.
+- En la **consola del navegador** se imprimen las coordenadas X, Y de la mirada en tiempo real.
+
+## Librerías utilizadas
+
+- [WebGazer.js](https://webgazer.cs.brown.edu/) — Para el seguimiento ocular en tiempo real.
+- [Heatmap.js](https://www.patrick-wied.at/static/heatmapjs/) — Para la generación visual del mapa de calor.
+- [Bootstrap 5](https://getbootstrap.com/) — Para el diseño responsivo y componentes UI.
+- [Font Awesome](https://fontawesome.com/) — Para los íconos.
+- Google Fonts (Outfit) — Para tipografía personalizada.
+
+## Captura de pantalla del mapa de calor generado
+
+![Captura del mapa de calor generado](./assets/heatmap.png)
+
 # Laboratorio 8 - Interacción Persona Computador
 ## Nombre: Eduardo Loza
 ## Figma: https://www.figma.com/design/zrMsqYWeRrkjZ4rzL7GP66/Lab1-IPC?node-id=0-1&t=IFlO5zjYyaq09g0U-1
